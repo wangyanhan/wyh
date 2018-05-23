@@ -1,5 +1,5 @@
 package org.student.dao;
-//好的呀
+//好的
 import java.util.List;
 
 import org.student.entity.Student;
